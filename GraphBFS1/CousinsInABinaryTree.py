@@ -1,3 +1,5 @@
+#TimeComplexity: O(n)
+#SpaceComplexity: O(n)
 class Solution:
     def isCousins(self, root: Optional[TreeNode], x: int, y: int) -> bool:
         
